@@ -1,4 +1,3 @@
-
 module "autoscaling" {
   source      = "./modules/autoscaling"
   namespace   = var.namespace
